@@ -47,6 +47,11 @@ main {
   color: var(--foreground-color);
 }
 
+.markdown-body img {
+  max-width: 600px;
+  object-fit: cover;
+}
+
 #page-header {
   display: flex;
   justify-content: space-between;
