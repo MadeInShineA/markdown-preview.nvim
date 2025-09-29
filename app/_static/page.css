@@ -43,7 +43,6 @@ main {
 
 #page-ctn {
   margin: 0 auto;
-  width: max-content;
   color: var(--foreground-color);
 }
 
